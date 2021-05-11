@@ -2,4 +2,4 @@
 
 First git file.
 
-Hello Word.
+Hello World.
